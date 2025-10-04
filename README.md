@@ -1,4 +1,4 @@
-# 77 バイトゲン!!!
+# バイトゲン!!!
 
 ### 77, Fullstack Developer
 
