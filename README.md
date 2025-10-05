@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-    <img src="illumi-main.gif" width="100%" style="max-height: 250px; object-fit: cover;" />
+   <img width="2053" height="684" alt="image" src="https://github.com/user-attachments/assets/f8fa745b-a4b2-4cb4-ba98-9a43d4c56726" />
 </div>
