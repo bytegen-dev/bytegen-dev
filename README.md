@@ -1,6 +1,6 @@
 # バイトゲン!!!
 
-### 2077, Fullstack Developer
+### Fullstack Developer
 
 > Crypto class of '24
 
