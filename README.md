@@ -1,4 +1,4 @@
-# バイトゲン!!!
+# バイトゲン
 
 ### Fullstack Developer
 
