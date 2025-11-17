@@ -2,7 +2,7 @@
 
 ### Fullstack Engineer
 
-> Crypto class of '24
+> Blockchain class of '24
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Fullstack+Engineer;Web3+Developer;Cyber+Security;Robots_(WIP)" alt="Typing SVG" />
