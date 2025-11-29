@@ -1,4 +1,4 @@
-# 以撒
+# 神の像
 
 ### Fullstack Engineer
 
