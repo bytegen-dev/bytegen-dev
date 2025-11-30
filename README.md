@@ -1,4 +1,4 @@
-#「神の像」
+# 神の像
 
 ### Fullstack Engineer
 
