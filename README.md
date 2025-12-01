@@ -1,4 +1,4 @@
-# 神像
+# 笑い
 
 ### Fullstack Engineer
 
