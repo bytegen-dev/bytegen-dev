@@ -9,5 +9,6 @@
 </div>
 
 <div align="center">
-    <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/218c7f82-3cbf-4cb4-bf65-3a3e4009c934" />
+    <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/4baa94d2-f372-46fb-9f18-6916225ae867" />
+
 </div>
