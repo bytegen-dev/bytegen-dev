@@ -1,4 +1,4 @@
-# isaac | bytegen.dev
+# Isaac | <a href="https://bytegen.dev" target="_blank">bytegen.dev</a>
 
 ### Fullstack Engineer / SAAS buildr [+++]
 
