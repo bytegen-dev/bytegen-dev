@@ -1,4 +1,4 @@
-# Isaac | <a href="https://bytegen.dev" target="_blank">bytegen.dev</a>
+# Isaac.
 
 ### Fullstack Engineer / SAAS buildr [+++]
 
@@ -9,5 +9,11 @@
 </div>
 
 <div align="center">
-    <img width="1453" height="477" alt="image" src="https://github.com/user-attachments/assets/a9b8711c-5804-4859-92ff-298f8697b133" />
+    <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/81705a52-4aa2-4656-9323-d418d392e650" />
+</div>
+
+<div align="center">
+    <a href="https://bytegen.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-1E90FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Button" />
+    </a>
 </div>
