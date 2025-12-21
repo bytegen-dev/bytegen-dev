@@ -1,6 +1,6 @@
-# ⠊⠎⠁⠁⠉
+# Isaac.Adebayo
 
-### Fullstack Engineer [+++]
+### Fullstack Engineer / SAAS buildr [+++]
 
 > 1AEgo5
 
