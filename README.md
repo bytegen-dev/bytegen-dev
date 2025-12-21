@@ -1,6 +1,6 @@
 # Isaac.
 
-### Fullstack Engineer / SAAS buildr [+++]
+### Fullstack Engineer [+++]
 
 > 1AEgo5
 
